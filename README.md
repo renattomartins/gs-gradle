@@ -6,7 +6,10 @@ It was based in [Building Java Projects with Gradle](https://spring.io/guides/gs
 ### Instructions to run the application
 1. Clone this repository
 2. Run the command `./gradlew build` on root folder
-3. You must see the message 'The current local time is: [current-local-time]. Hello world!'
+3. You must see the message:
+> The current local time is: [current-local-time].
+>
+> Hello world!
 
 ### About development environment
 
