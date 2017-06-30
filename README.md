@@ -7,8 +7,7 @@ It was based in [Building Java Projects with Gradle](https://spring.io/guides/gs
 1. Clone this repository
 2. Run the command `./gradlew build` on root folder
 3. You must see the message:
-> The current local time is: [current-local-time].
->
+> The current local time is: 14:19:00.860 <br />
 > Hello world!
 
 ### About development environment
