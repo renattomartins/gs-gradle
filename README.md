@@ -13,6 +13,11 @@ It was based in [Building Java Projects with Gradle](https://spring.io/guides/gs
 ### About development environment
 
 - Java 1.8.0_25
+- Gradle 4.0
+- Groovy 2.4.11
+- Ant 1.9.6
+- Mac OS 10.12.5 x86_64
 - Eclipse IDE Neon 4.6.3
+- Atom 1.18.0 x64
 - Git 2.8.1
 - Tower 2.4.0 for OSx
