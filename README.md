@@ -6,7 +6,8 @@ It was based in [Building Java Projects with Gradle](https://spring.io/guides/gs
 ### Instructions to run the application
 1. Clone this repository
 2. Run the command `./gradlew build` on root folder
-3. You must see the message:
+3. Run the command `./gradlew run` also on root folder
+4. You must see the message:
 > The current local time is: 14:19:00.860 <br />
 > Hello world!
 
@@ -15,6 +16,7 @@ It was based in [Building Java Projects with Gradle](https://spring.io/guides/gs
 - Java 1.8.0_25
 - Gradle 4.0
 - Groovy 2.4.11
+- Gradle Wrapper 2.13
 - Ant 1.9.6
 - Mac OS 10.12.5 x86_64
 - Eclipse IDE Neon 4.6.3
